@@ -1,5 +1,17 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm Khushi Bansal — a final-year Computer Science student specializing in Artificial Intelligence and Machine Learning. I'm passionate about building intelligent systems that create real-world impact.<br><br>### 🚀 What I Do<br>- 🔍 AI/ML Enthusiast: I build and train models for prediction, detection, and analysis using Python, Scikit-learn, TensorFlow, and OpenCV.<br>- 🌐 Full-Stack Developer: Skilled in React.js, Node.js, Express, and MongoDB.<br>- 📊 Data-Driven Projects: I love exploring data, building dashboards, and solving problems with machine learning.<br>- 🛡️ Research: My final-year project **CrimeGuard** is a real-time violence detection and crime prediction system using deep learning and statistical modeling.<br><br>### 💡 Tech Stack<br>- **Languages:** Python, JavaScript, C++, HTML/CSS<br>- **Frameworks & Libraries:** Flask, React, TensorFlow, OpenCV, Redux<br>- **Tools:** VS Code, Git, Google Colab, Jupyter, Postman<br>- **Databases:** MongoDB, MySQL<br><br>### 📫 Get in Touch<br>- ✉️ Email: *khushibansal.official@gmail.com*<br>- 🔗 LinkedIn: [linkedin.com/in/khushi-bansal-865170243](https://www.linkedin.com/in/khushi-bansal-865170243/)<br><br>---<br><br>> “Always learning, always building — one problem at a time.”<br><br>
+## 👋 About Me<br><br>Hi, I'm Khushi Bansal — a final-year Computer Science student specializing in Artificial Intelligence and Machine Learning. I'm passionate about building intelligent systems that create real-world impact.<br><br>### 🚀 What I Do<br>
+- 🔍 AI/ML Enthusiast: I build and train models for prediction, detection, and analysis using Python, Scikit-learn, TensorFlow, and OpenCV.<br>
+- 🌐 Full-Stack Developer: Skilled in React.js, Node.js, Express, and MongoDB.<br>
+- 📊 Data-Driven Projects: I love exploring data, building dashboards, and solving problems with machine learning.<br>
+- 🛡️ Research: My final-year project **CrimeGuard** is a real-time violence detection and crime prediction system using deep learning and statistical modeling.<br><br>
+### 💡 Tech Stack<br>
+- **Languages:** Python, JavaScript, C++, HTML/CSS<br>
+- **Frameworks & Libraries:** Flask, React, TensorFlow, OpenCV, Redux<br>
+- **Tools:** VS Code, Git, Google Colab, Jupyter, Postman<br>
+- **Databases:** MongoDB, MySQL<br><br>
+### 📫 Get in Touch<br>
+- ✉️ Email: *khushibansal.official@gmail.com*<br>
+- 🔗 LinkedIn: [linkedin.com/in/khushi-bansal-865170243](https://www.linkedin.com/in/khushi-bansal-865170243/)<br><br>---<br><br>> “Always learning, always building — one problem at a time.”<br><br>
 
 
 ## 🌐 Socials:
