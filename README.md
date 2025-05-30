@@ -1,4 +1,5 @@
 ## 👋 About Me<br><br>Hi, I'm Khushi Bansal — a final-year Computer Science student specializing in Artificial Intelligence and Machine Learning. I'm passionate about building intelligent systems that create real-world impact.<br><br>
+Portfolio website - https://khushi-portfolio-shine.lovable.app/
 ### 🚀 What I Do<br>
 - 🔍 AI/ML Enthusiast: I build and train models for prediction, detection, and analysis using Python, Scikit-learn, TensorFlow, and OpenCV.<br>
 - 🌐 Full-Stack Developer: Skilled in React.js, Node.js, Express, and MongoDB.<br>
