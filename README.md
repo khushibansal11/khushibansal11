@@ -10,7 +10,7 @@
 - **Tools:** VS Code, Git, Google Colab, Jupyter, Postman<br>
 - **Databases:** MongoDB, MySQL<br><br>
 ### 📫 Get in Touch<br>
-- ✉️ Email: *khushibansal.official@gmail.com*<br>
+- ✉️ Email: *khushibansal635@gmail.com*<br>
 - 🔗 LinkedIn: [linkedin.com/in/khushi-bansal-865170243](https://www.linkedin.com/in/khushi-bansal-865170243/)<br><br>
 ---
 <br><br>
